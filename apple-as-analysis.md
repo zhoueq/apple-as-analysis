@@ -1055,6 +1055,10 @@ else
 inst.size = INSN_SIZE;
 ```
 
+关于机器指令结构，理解ARM32位汇编指令的二进制表示后，可以更好理解之后对全局变量inst的操作
+
+ARM汇编指令集与机器码 https://blog.csdn.net/DXCyber409/article/details/92838715
+
 ## 汇编指令参数解析
 
 ### 寄存器类型及结构
